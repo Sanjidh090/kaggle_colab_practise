@@ -1,0 +1,16 @@
+Title,Status,Assignee,Priority,Description
+Define Problem Statement,To Do,You,High,"Write a clear, testable hypothesis and problem statement focusing on cultural image generation"
+Dataset Collection,In Progress,You,High,Collect 1000–2000 images representing traditional visuals from Bangladesh/local regions
+Data Cleaning & Preprocessing,To Do,You,High,"Resize, crop, normalize, and format images (e.g., 512x512)"
+Annotate Metadata,To Do,You,Medium,"Optional step for future conditional generation: tag images with cultural style, color, etc."
+Select Model Architecture,To Do,You,High,"Choose between StyleGAN2-ADA, DDPM, or fine-tuned Stable Diffusion"
+Environment Setup,Done,You,High,Set up Python/Conda environment with PyTorch and relevant libraries
+Training Script Setup,To Do,You,High,Create reusable training scripts and config files
+Model Training,To Do,You,High,Train model using dataset and validate periodically
+Evaluate with FID & Visual Checks,To Do,You,High,Use FID scores and manual inspection to assess quality
+User Feedback (Cultural Accuracy),To Do,You,Medium,Share samples with local people for subjective cultural validation
+Set Up Image Generation Script,To Do,You,Medium,CLI or notebook to generate new images with trained model
+Build Gradio Web Demo (Optional),To Do,You,Low,Interactive interface to generate images online
+Write Report (Paper Style),To Do,You,Medium,"Document findings, results, dataset, and observations scientifically"
+Publish GitHub Repo & Dataset,To Do,You,Medium,Push final code and dataset or subset (if shareable)
+Plan Future Work,To Do,You,Low,"Add text-to-image, new styles, regional expansion, or NeRF integration"
