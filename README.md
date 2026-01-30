@@ -7,7 +7,8 @@ For Beginners:
 
 Intro to Programming: Start with Python basics if you have no coding experience.
 
-Python: Learn the essentials of Python for data science.
+# Python: 
+Learn the essentials of Python for data science.
 
 Intro to SQL: Learn to work with databases.
 
